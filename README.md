@@ -3,9 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=sdhanush-26&label=Profile%20Views&color=0e75b6&style=flat" alt="sdhanush-26" />
 </p>
 
-<!-- Animated Header -->
+<!-- Animated Header using capsule-render (100% working) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+S+Dhanush+👋;Full+Stack+Developer+🚀;Java+%7C+Spring+Boot+%7C+HTML;Building+cool+things+one+line+at+a+time!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=220&section=header&text=S%20Dhanush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20HTML&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0077B5&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
@@ -58,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdhanush-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sdhanush-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -68,15 +72,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sdhanush-26&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
----
-
-<!-- Contribution Snake -->
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sdhanush-26/sdhanush-26/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -96,5 +91,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+amazing+together!+🚀" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
