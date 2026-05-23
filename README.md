@@ -1,9 +1,8 @@
-<!-- Visitor Counter -->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sdhanush-26&label=Profile%20Views&color=0e75b6&style=flat" alt="sdhanush-26" />
 </p>
 
-<!-- Animated Header using capsule-render (100% working) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=220&section=header&text=S%20Dhanush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20HTML&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -14,7 +13,6 @@
 
 <br/>
 
-<!-- About Me -->
 ## 👨‍💻 About Me
 
 > *"Code is not just syntax — it's a way of thinking."*
@@ -29,7 +27,6 @@
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -51,7 +48,7 @@
 
 ---
 
-<!-- GitHub Stats -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -67,7 +64,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -81,7 +77,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdhanush-26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-s-35047725a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dhanushuu__26__)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhanush-26)
 
@@ -89,7 +85,6 @@
 
 ---
 
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
