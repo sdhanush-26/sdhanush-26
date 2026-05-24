@@ -1,8 +1,9 @@
-
+<!-- Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sdhanush-26&label=Profile%20Views&color=0e75b6&style=flat" alt="sdhanush-26" />
 </p>
 
+<!-- Animated Header using capsule-render (100% working) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=220&section=header&text=S%20Dhanush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20HTML&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -13,6 +14,7 @@
 
 <br/>
 
+<!-- About Me -->
 ## 👨‍💻 About Me
 
 > *"Code is not just syntax — it's a way of thinking."*
@@ -27,6 +29,7 @@
 
 ---
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -48,12 +51,13 @@
 
 ---
 
-
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdhanush-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhanush-26&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdhanush-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhanush-26&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
 </div>
 
 <br/>
@@ -64,6 +68,7 @@
 
 ---
 
+<!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -85,6 +90,7 @@
 
 ---
 
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
